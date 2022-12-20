@@ -1,0 +1,34 @@
+body{
+  margin: 20px 0;
+}
+.card-text1{
+  font-size: 20px;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 700;
+}
+.card-text2{
+  font-size: 15px;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 400;
+  color: #A2B5BB;
+}
+
+  .qr{
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+  }
+.card-img-top{
+  border-radius: 10%;
+  padding: 5px;
+
+}
+  .attribution {
+    font-size: 11px;
+    padding: 10px;
+    margin: 20px 0;
+    text-align: center; }
+
+  .attribution a {
+     color: hsl(228, 45%, 44%);
+   }
