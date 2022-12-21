@@ -1,5 +1,6 @@
 body{
   margin: 20px 0;
+  background-color: hsl(212, 45%, 89%);
 }
 .card-text1{
   font-size: 20px;
@@ -16,7 +17,7 @@ body{
   .qr{
     text-align: center;
     margin: auto;
-    padding: 10px;
+    padding: 7px;
   }
 .card-img-top{
   border-radius: 10%;
